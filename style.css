@@ -4,16 +4,19 @@ body {
     color: #333;
     font-family: Lato, sans-serif;
 }
+
 .matrix-section {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
+
 .matrix-section img {
     width: 100%;
 }
-.matrix-section 
+
+.matrix-section, 
 .matrix-section__more-inf {
     font-family: fantasy, cursive;
 }
