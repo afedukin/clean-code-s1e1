@@ -156,7 +156,7 @@ button.delete-task img:hover {
 
 /* Edit Task */
 ul li input[type=text] {
-    display: none
+    display: none;
 }
 
 ul li.edit-mode input[type=text] {
@@ -165,5 +165,5 @@ ul li.edit-mode input[type=text] {
 }
 
 ul li.edit-mode label {
-    display: none
+    display: none;
 }
