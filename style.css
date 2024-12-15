@@ -20,7 +20,8 @@ body {
 }
 
 @media (max-width: 768px) {
-  .matrix-section { text-align: center;
+  .matrix-section { 
+    text-align: center;
   }
 }
 
